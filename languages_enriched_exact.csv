@@ -1,0 +1,46 @@
+Input Name,Matched Name,Match Type,Glottocode,ISO639_3,Family ID,Parent ID,Latitude,Longitude,Countries
+Afrikaans,Afrikaans,exact,afri1274,afr,indo1319,afri1273,-31.63272,20.46356,BW MZ NA ZA ZM ZW
+Amharic,Amharic,exact,amha1245,amh,afro1255,amha1244,11.708182,39.543456,DJ ET
+Basque,Basque,exact,basq1248,eus,,,43.2787,-1.31622,ES FR
+Bengali,Bengali,exact,beng1280,ben,indo1319,gaud1238,24.0,90.0,BD IN NP
+Galician,Galician,exact,gali1258,glg,indo1319,gali1263,42.2446,-7.5343,ES PT
+Georgian,Georgian,exact,nucl1302,kat,kart1248,geor1253,41.850397,43.78613,AM AZ GE IR RU TR
+Hausa,Hausa,exact,haus1257,hau,afro1255,west2718,11.1513,8.7804,BF BJ CM NE NG TD
+Hindi,Hindi,exact,hind1269,hin,indo1319,hind1270,25.0,77.0,BD BT IN NP
+Icelandic,Icelandic,exact,icel1247,isl,indo1319,icel1246,63.4837,-19.0212,IS
+Irish,Irish,exact,iris1253,gle,indo1319,mode1265,53.2186,-7.61509,GB IE
+Kinyarwanda,Kinyarwanda,exact,kiny1244,kin,atla1278,rwan1241,-1.56771,29.6441,BI CD RW TZ UG
+Manx,Manx,exact,manx1243,glv,indo1319,east2734,54.2604,-4.45437,GB IM
+Minderico,Minderico,exact,mind1263,drc,indo1319,gali1263,39.5144,-8.68866,PT
+Scottish Gaelic,Scottish Gaelic,exact,scot1245,gla,indo1319,east2734,56.7574,-5.24366,GB
+Somali,Somali,exact,soma1255,som,afro1255,east2653,4.778704,45.152856,DJ ET KE SO
+Tigrinya,Tigrinya,exact,tigr1271,tir,afro1255,ethi1244,15.3359,38.9266,DJ ER ET SD
+Erzya,Erzya,exact,erzy1239,myv,ural1272,mord1256,52.8548,45.3901,AZ BY EE KZ LT LV RU UA
+Finnish,Finnish,exact,finn1318,fin,ural1272,nucl1717,64.7628,25.5577,EE FI NO RU SE
+Ingrian,Ingrian,exact,ingr1248,izh,ural1272,lado1234,59.47403,29.71145,EE RU
+Moksha,Moksha,exact,moks1248,mdf,ural1272,mord1256,54.1855,42.6728,RU
+Nganasan,Nganasan,exact,ngan1291,nio,ural1272,samo1298,73.1354,86.2106,RU
+Udmurt,Udmurt,exact,udmu1245,udm,ural1272,perm1256,56.12921,52.63548,KZ RU
+Veps,Veps,exact,veps1250,vep,ural1272,east2796,60.3353,34.7865,RU
+Cornish,Cornish,exact,corn1251,cor,indo1319,midd1379,50.5233,-4.18619,GB
+Faroese,Faroese,exact,faro1244,fao,indo1319,icel1246,62.0732,-6.88497,DK FO
+Northern Haida,Northern Haida,exact,nort2938,hdn,haid1248,haid1248,54.004532,-132.079257,CA US
+Plains Cree,Plains Cree,exact,plai1258,crk,algi1248,plai1264,51.2437,-110.463,CA US
+Russian,Russian,exact,russ1263,rus,indo1319,east1426,59.0,50.0,BY CN EE FI GE KG KP KZ LT LV MD MN NO PL RO RU SJ TM UA UZ
+Zulu,Zulu,exact,zulu1248,zul,atla1278,ngun1267,-28.9,30.2,BW LS MZ SZ ZA
+Javanese,Javanese,exact,java1254,jav,aust1307,glob1245,-7.001,109.287,ID MY
+Sundanese,Sundanese,exact,sund1252,sun,aust1307,mala1545,-6.89708,107.106,ID
+Lao,Lao,exact,laoo1244,lao,taik1256,laot1235,19.0,102.46,KH LA TH
+Burmese,Burmese,exact,nucl1310,mya,sino1245,nucl1811,20.7926,93.9665,BD MM TH
+Odia,Odia,exact,oriy1255,ory,indo1319,macr1269,21.0,85.0,IN
+Tamil,Tamil,exact,tami1289,tam,drav1251,tami1300,10.520219,78.825989,IN LK
+Swahili,Swahili,exact,swah1253,swh,atla1278,momb1256,-8.25605,37.624,BI KE MZ RW SO TZ UG
+Yoruba,Yoruba,exact,yoru1245,yor,atla1278,lucu1239,7.15345,3.67225,BJ NG
+North Sami,North Saami,fuzzy,nort2671,sme,ural1272,cent2240,68.725,22.1113,FI NO RU SE
+Lule Sami,Lule Saami,fuzzy,lule1254,smj,ural1272,lule1256,67.2759,17.8057,NO SE
+South Sami,South Saami,fuzzy,sout2674,sma,ural1272,sout3150,62.8801,13.7006,NO SE
+Inari Sami,Inari Saami,fuzzy,inar1241,smn,ural1272,main1280,69.4229,27.8658,FI NO
+Kildin Sami,Kildin Saami,fuzzy,kild1236,sjd,ural1272,peni1240,68.2158,35.8348,RU
+Pite Sami,Pite Saami,fuzzy,pite1240,sje,ural1272,lule1256,66.4011,17.4261,NO SE
+Skolt Sami,Skolt Saami,fuzzy,skol1241,sms,ural1272,main1280,68.8326,29.7204,FI NO RU
+Mi’kmaq,Mi'kmaq,fuzzy,mikm1235,mic,algi1248,micm1234,46.0,-64.0,CA US

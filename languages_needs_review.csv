@@ -1,0 +1,39 @@
+Input Name,Matched Name,Match Type,Glottocode,ISO639_3,Family ID,Parent ID,Latitude,Longitude,Countries
+Albanian,Alangan,fuzzy,alan1249,alj,aust1307,nort2873,13.0982,121.022,PH
+Alutiiq,Alamuti,fuzzy,goza1238,goz,indo1319,tati1244,36.4133,50.6987,IR
+Chichewa,Chibcha,fuzzy,chib1270,chb,chib1249,chib1269,6.24999,-74.1666,CO
+Guarani,Gurani,fuzzy,gura1251,hac,indo1319,gora1267,36.8377,44.4956,IQ IR
+Høgnorsk,,none,,,,,,,
+Inuktitut,,none,,,,,,,
+Kurdish,Turkish,fuzzy,nucl1301,tur,turk1311,west2406,39.8667,32.8667,AL AM AZ BG CY GE GR IQ IR MK SY TR
+Lingala,Tingal,fuzzy,ting1253,tie,book1242,book1242,12.1797,31.1244,SD
+Lushootseed,Northern Lushootseed,fuzzy,lush1252,lut,sali1255,lush1251,48.42,-122.529,US
+Malay,Malayo,fuzzy,mala1522,mbp,chib1249,east2572,10.9286,-73.4056,CO
+Malagasy,Bara Malagasy,fuzzy,bara1369,bhr,aust1307,bara1407,-23.9716,45.5937,MG
+Mi’kmaq,Mi'kmaq,fuzzy,mikm1235,mic,algi1248,micm1234,46.0,-64.0,CA US
+Nishnaabe (Ojibwe / Odawa / Chippewa / Anishinaabemowin),,none,,,,,,,
+Oromo,Oroko,fuzzy,orok1266,bdu,atla1278,bafa1252,4.89504,9.15209,CM
+Quechua,Quechan,fuzzy,quec1382,yum,coch1271,rive1260,32.7859,-114.599,US
+Sami,Samei,fuzzy,same1240,smh,sino1245,nasu1237,25.0756,103.0133,CN
+North Sami,North Saami,fuzzy,nort2671,sme,ural1272,cent2240,68.725,22.1113,FI NO RU SE
+Lule Sami,Lule Saami,fuzzy,lule1254,smj,ural1272,lule1256,67.2759,17.8057,NO SE
+South Sami,South Saami,fuzzy,sout2674,sma,ural1272,sout3150,62.8801,13.7006,NO SE
+Inari Sami,Inari Saami,fuzzy,inar1241,smn,ural1272,main1280,69.4229,27.8658,FI NO
+Kildin Sami,Kildin Saami,fuzzy,kild1236,sjd,ural1272,peni1240,68.2158,35.8348,RU
+Pite Sami,Pite Saami,fuzzy,pite1240,sje,ural1272,lule1256,66.4011,17.4261,NO SE
+Skolt Sami,Skolt Saami,fuzzy,skol1241,sms,ural1272,main1280,68.8326,29.7204,FI NO RU
+Secwepemctsin,,none,,,,,,,
+Uralic Languages,Bura Sign Language,fuzzy,bura1295,,sign1238,deaf1237,10.478601,12.28484,NG
+Hill Mari,Hills Karbi,fuzzy,karb1241,mjw,sino1245,karb1240,25.7317,93.0462,IN
+Khanty,Kuthant,fuzzy,kuth1240,xut,pama1250,kuth1239,-17.4566,140.958,AU
+Kven,Kove,fuzzy,kove1237,kvc,aust1307,kali1298,-5.58623,149.63,PG
+Komi,Koi,fuzzy,koii1238,kkt,sino1245,west2424,27.1941,86.8531,NP
+Livonian,,none,,,,,,,
+Meadow Mari,Mewari,fuzzy,mewa1249,mtr,indo1319,mewa1253,24.57,73.68,IN
+Nenets,,none,,,,,,,
+Olonetsian,,none,,,,,,,
+Buriat,Burate,fuzzy,bura1276,bti,geel1240,bura1294,-2.79301,136.038,ID
+Greenlandic,Icelandic,fuzzy,icel1247,isl,indo1319,icel1246,63.4837,-19.0212,IS
+Inupiaq,,none,,,,,,,
+Ojibwe,,none,,,,,,,
+Khmer,Khe,fuzzy,khee1238,kqg,atla1278,dogo1293,9.79704,-4.24384,BF CI
