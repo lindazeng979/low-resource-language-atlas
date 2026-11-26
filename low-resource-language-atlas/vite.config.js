@@ -2,7 +2,8 @@ import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
 
 // Served from https://lindazeng979.github.io/low-resource-language-atlas/ on GitHub Pages.
-export default defineConfig(({ command }) => ({
+// `vite preview` uses the same base so it previews exactly what Pages serves.
+export default defineConfig(({ command, isPreview }) => ({
   plugins: [react()],
-  base: command === "build" ? "/low-resource-language-atlas/" : "/",
+  base: command === "build" || isPreview ? "/low-resource-language-atlas/" : "/",
 }));
